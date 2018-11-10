@@ -33,12 +33,6 @@ public class Emberstic {
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
         proxy.init(event);
-
-        if(!Loader.isModLoaded("baubles"))
-            System.out.println("Required mod Baubles isn't installed");
-
-        if(!Loader.isModLoaded("botania"))
-            System.out.println("Required mod Botania isn't installed");
     }
 
     @Mod.EventHandler
