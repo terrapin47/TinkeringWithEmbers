@@ -1,0 +1,16 @@
+[
+{
+  "modid": "emberstic",
+  "name": "Tinkering With Embers",
+  "description": "A Tcon and Conarm integration for Embers Rekindled",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/terrapin47/TinkeringWithEmbers",
+  "updateUrl": "",
+  "authorList": ["terrapin47"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
